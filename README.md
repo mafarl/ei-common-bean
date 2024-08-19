@@ -1,6 +1,6 @@
 # ei-common-bean
 
-## 50-fold-crossvalidation-IBM-tool.py
+## [50-fold-crossvalidation-IBM-tool.py](50-fold-crossvalidation-IBM-tool.py)
 - Function to be used in AutoXAI4Omics/src/plotting/plot_both.py
 - group_size should be changed to 20% of the data analysed or data.shape[\0\] * 0.2
 - nsplits can be changed to any number of cross validation rounds required
