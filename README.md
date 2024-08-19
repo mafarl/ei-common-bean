@@ -13,5 +13,5 @@
 - 1: NN, heterozygous
 - 2: Minor allele
 
-## plots.py
+## plots.py
 - Function plots a box plot and violin plot from the cross validation results by IBM tool to compare all of the models used
